@@ -1,5 +1,5 @@
 # entity annotation
- using brat visualization style
+using brat visualization style
 Entity annotation Documentation 
 Entity type description 
 >. Structure such as neural system .
